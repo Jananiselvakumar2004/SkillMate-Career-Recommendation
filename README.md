@@ -31,8 +31,4 @@ SkillMate is a web application designed to provide personalized career path and 
 - Java JDK 11+  
 - Python 3.8+ and pip  
 - MongoDB/MySQL setup  
-
-### Installation
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/SkillMate-Career-Recommendation.git
+ 
